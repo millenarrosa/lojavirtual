@@ -4,6 +4,8 @@ Projeto desenvolvido para a disciplina **Tópicos Especiais em Desenvolvimento d
 
 TRENCH Store é uma loja virtual de discos de vinil, desenvolvida com Laravel, com área pública para clientes e área administrativa para gerenciamento de produtos e pedidos.
 
+![Home](img/imghome.png)
+
 ---
 
 ## Tecnologias Utilizadas
@@ -27,12 +29,16 @@ TRENCH Store é uma loja virtual de discos de vinil, desenvolvida com Laravel, c
 - Compra de discos
 - Página "Meus Pedidos" para acompanhamento de compras
 
+![Busca](img/imgbusca.png)
+
 ### Área Administrativa
 
 - Dashboard com valor total do estoque e gráficos por tipo (nacional e internacional)
 - Cadastro, edição e exclusão de produtos
 - Listagem de todos os pedidos dos clientes
 - Geração de relatórios em PDF
+
+![Admin](img/imgadmin.png)
 
 ### Geral
 
