@@ -39,6 +39,7 @@ TRENCH Store é uma loja virtual de discos de vinil, desenvolvida com Laravel, c
 - Geração de relatórios em PDF
 
 ![Admin](img/imgadmin.png)
+![Produtos](img/produtosadmin.png)
 
 ### Geral
 
